@@ -5,3 +5,5 @@ I will add ready-made solutions tasks and exercises beside chapters 1 and 2.
 Third chapter also have some changes because the idea to create a GitHub account did not come to me right away.
 
 There is "std_lib_facilities.h" file which needed for training but I don't want to use it. I prefer to use basic libraries and directories however I attach this file to the folder "Chapter 3".
+
+By the way, i'm sorry for my English, my russian origin plays into this and i know it doesn't justify me and i'm trying.
