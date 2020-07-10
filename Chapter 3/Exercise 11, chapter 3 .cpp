@@ -1,9 +1,9 @@
 /*
 Programm asks how much money do you have and count the denomination of them.
 */
-#include <iostream>
-#include <string>
-using namespace std;
+#include <iostream>    		//
+#include <string>		// or use #include "std_lib_facilities.h"
+using namespace std;		// 
 
 
 int main() {
