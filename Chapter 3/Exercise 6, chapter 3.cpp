@@ -1,3 +1,4 @@
+// Еhe program receives 3 digits and puts them in a row ascending
 #include <iostream>
 using namespace std;
 
